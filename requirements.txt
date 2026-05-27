@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium
+webdriver-manager
+requests
+pymongo
+python-dotenv
+pydantic
+pydantic-settings
